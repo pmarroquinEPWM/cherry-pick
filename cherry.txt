@@ -18,6 +18,4 @@ git cherry-pick f6b8a23
 
 luego se hacen los cambios normales
 
-
-
-6a63571
+https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/GitHub-SSH-Key-Setup-Config-Ubuntu-Linux
