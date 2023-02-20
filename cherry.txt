@@ -18,4 +18,9 @@ git cherry-pick f6b8a23
 
 luego se hacen los cambios normales
 
+git add .
+git status
+git commit -m "mensaje para el commit"
+git push
+
 https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/GitHub-SSH-Key-Setup-Config-Ubuntu-Linux
