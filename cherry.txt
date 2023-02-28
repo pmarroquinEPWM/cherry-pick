@@ -14,6 +14,8 @@ f6b8a23 (HEAD -> beta, origin/beta) Se incluyen precios de RRO a JSON
 git checkout remotes/origin/beta_descaudal
 git checkout beta_descaudal
 
+git branch # para ver que este en la rama a la que lo quiero pasar XD
+
 git cherry-pick f6b8a23
 
 luego se hacen los cambios normales
